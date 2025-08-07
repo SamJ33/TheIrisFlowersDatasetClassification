@@ -37,7 +37,7 @@ Each iris sample includes the following features:
 
 ## Clone the Repository:
 
-git clone https://github.com/your-username/iris-flower-classification.git
+git clone https://github.com/SamJ33/iris-flower-classification.git
 cd iris-flower-classification
 
 
